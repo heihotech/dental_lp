@@ -9,7 +9,7 @@ build-fresh: build  pm2-run
 rebuild: pm2-stop pm2-del build-fresh
 
 build:
-	yarn build
+	npm run build
 
 pm2-run:
 	pm2 start
