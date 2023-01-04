@@ -6,42 +6,69 @@ export default {
     SearchPopup: () => import("@/components/SearchPopup"),
     FooterTwo: () => import("@/components/FooterTwo"),
   },
-
   data() {
     return {
       navOpen: false,
       searchOpen: false,
-      doctors: [
-        { value: 1, text: "drg. Nor Cholifah Hanum" },
-        { value: 2, text: "drg. Aninda" },
-      ],
+      doctors: [],
       selectedDoctor: null,
       date: null,
-      schedules: [
-        { value: 1, text: "08:00 - 08:30" },
-        { value: 2, text: "08:30 - 09:00" },
-        { value: 3, text: "09:00 - 09:30" },
-        { value: 4, text: "09:30 - 10:00" },
-        { value: 5, text: "10:00 - 10:30" },
-        { value: 6, text: "10:30 - 11:00" },
-        //
-        { value: 7, text: "17:00 - 17:30" },
-        { value: 8, text: "17:30 - 09:00" },
-        { value: 9, text: "18:00 - 18:30" },
-        { value: 10, text: "18:30 - 10:00" },
-        { value: 11, text: "19:00 - 19:30" },
-        { value: 12, text: "19:30 - 20:00" },
-      ],
+      complaint: null,
+      schedules: [],
+      getDate: null,
       selectedSchedule: null,
       isModalReservationActive: false,
+      isBusy: true,
     };
   },
+  methods: {
+    switchSchedule() {
+      this.schedules = [];
+      if (this.date !== null) {
+        this.doctors.map((el) => {
+          if (el.id === this.selectedDoctor) {
+            el.schedules.map((s) => {
+              if (s.day === parseInt(new Date(this.date).getDay())) {
+                this.schedules.push(s);
+              }
+            });
+          }
+        });
+      }
+    },
+  },
+  async fetch() {
+    this.isBusy = true;
+    let url = "/api/doctors?withProfile=true&withSchedules=true";
+    this.doctors = [];
 
+    try {
+      const resp = await this.$axios.get(url);
+      if (resp.data) {
+        this.doctors = resp.data.data;
+      }
+    } catch (error) {
+      console.log(error);
+    }
+    // console.log(this.doctors);
+    this.isBusy = false;
+  },
   mounted() {
     document.body.classList.add("template-color-41", "template-font-3");
-    this.selectedDoctor = 1;
+    // this.selectedDoctor = null;
   },
-
+  watch: {
+    date: {
+      handler: function () {
+        this.switchSchedule();
+      },
+    },
+    selectedDoctor: {
+      handler: function () {
+        this.switchSchedule();
+      },
+    },
+  },
   head() {
     return {
       title: "Home Corona",
@@ -65,23 +92,42 @@ export default {
           <b-form-input type="text" required></b-form-input>
         </b-form-group>
         <b-form-group label="Dokter" label-for="doctor">
-          <b-form-select
-            v-model="selectedDoctor"
-            :options="doctors"
-          ></b-form-select>
+          <select v-model="selectedDoctor" class="form-control" required>
+            <option :value="el.id" v-for="el in doctors" :key="el.id">
+              {{
+                el.user?.profile?.fullName ? el.user?.profile?.fullName : "-"
+              }}
+            </option>
+          </select>
         </b-form-group>
         <b-form-group label="Tanggal Kunjungan" label-for="date">
           <b-form-datepicker
+            :disabled="selectedDoctor === null"
             v-model="date"
             locale="id"
             class="mb-2"
           ></b-form-datepicker>
         </b-form-group>
         <b-form-group label="Jam Kunjungan" label-for="schedule">
-          <b-form-select
+          <select
+            :disabled="selectedDoctor === null || schedules.length === 0"
             v-model="selectedSchedule"
-            :options="schedules"
-          ></b-form-select>
+            class="form-control"
+            required
+          >
+            <option :value="el.id" v-for="el in schedules" :key="el.guid">
+              {{ el.time ? el.time : "-" }}
+            </option>
+          </select>
+        </b-form-group>
+        <b-form-group label="Keluhan" label-for="complaint">
+          <b-form-textarea
+            id="complaint"
+            v-model="complaint"
+            placeholder="Ceritakan keluhan anda..."
+            rows="3"
+            max-rows="6"
+          ></b-form-textarea>
         </b-form-group>
       </b-form>
       <template #modal-footer>

@@ -2,610 +2,610 @@
   {
     "name": "about-us-01",
     "path": "/about-us-01",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/about-us-01.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/about-us-01.vue",
     "chunkName": "pages/about-us-01",
-    "_name": "_0d6d6e24"
+    "_name": "_ed1038c2"
   },
   {
     "name": "about-us-02",
     "path": "/about-us-02",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/about-us-02.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/about-us-02.vue",
     "chunkName": "pages/about-us-02",
-    "_name": "_0d7b85a5"
+    "_name": "_ecf409c0"
   },
   {
     "name": "about-us-03",
     "path": "/about-us-03",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/about-us-03.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/about-us-03.vue",
     "chunkName": "pages/about-us-03",
-    "_name": "_0d899d26"
+    "_name": "_ecd7dabe"
   },
   {
     "name": "career",
     "path": "/career",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/career.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/career.vue",
     "chunkName": "pages/career",
-    "_name": "_228f814c"
+    "_name": "_3ad9ee02"
   },
   {
     "name": "contact-us-modern",
     "path": "/contact-us-modern",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/contact-us-modern.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/contact-us-modern.vue",
     "chunkName": "pages/contact-us-modern",
-    "_name": "_630bfb15"
+    "_name": "_596daf60"
   },
   {
     "name": "contact-us-with-map",
     "path": "/contact-us-with-map",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/contact-us-with-map.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/contact-us-with-map.vue",
     "chunkName": "pages/contact-us-with-map",
-    "_name": "_7a25056a"
+    "_name": "_189447c6"
   },
   {
     "name": "home-authentic-studio",
     "path": "/home-authentic-studio",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-authentic-studio.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-authentic-studio.vue",
     "chunkName": "pages/home-authentic-studio",
-    "_name": "_37b633f0"
+    "_name": "_6b42fdc3"
   },
   {
     "name": "home-blog-grid",
     "path": "/home-blog-grid",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-blog-grid.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-blog-grid.vue",
     "chunkName": "pages/home-blog-grid",
-    "_name": "_485ad87f"
+    "_name": "_0d782d24"
   },
   {
     "name": "home-corona",
     "path": "/home-corona",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-corona.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-corona.vue",
     "chunkName": "pages/home-corona",
-    "_name": "_0cf0d79e"
+    "_name": "_ee0965ce"
   },
   {
     "name": "home-creative-agency",
     "path": "/home-creative-agency",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-creative-agency.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-creative-agency.vue",
     "chunkName": "pages/home-creative-agency",
-    "_name": "_27b5cf5e"
+    "_name": "_4b579d36"
   },
   {
     "name": "home-creative-portfolio",
     "path": "/home-creative-portfolio",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-creative-portfolio.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-creative-portfolio.vue",
     "chunkName": "pages/home-creative-portfolio",
-    "_name": "_5882232c"
+    "_name": "_df0d8fb2"
   },
   {
     "name": "home-design-studio",
     "path": "/home-design-studio",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-design-studio.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-design-studio.vue",
     "chunkName": "pages/home-design-studio",
-    "_name": "_082551b3"
+    "_name": "_c0e46850"
   },
   {
     "name": "home-digital-agency",
     "path": "/home-digital-agency",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-digital-agency.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-digital-agency.vue",
     "chunkName": "pages/home-digital-agency",
-    "_name": "_58d594dc"
+    "_name": "_a3074152"
   },
   {
     "name": "home-essential",
     "path": "/home-essential",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-essential.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-essential.vue",
     "chunkName": "pages/home-essential",
-    "_name": "_917e9a88"
+    "_name": "_7c5e0761"
   },
   {
     "name": "home-foodie",
     "path": "/home-foodie",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-foodie.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-foodie.vue",
     "chunkName": "pages/home-foodie",
-    "_name": "_63f53b7c"
+    "_name": "_40009e12"
   },
   {
     "name": "home-freelancer",
     "path": "/home-freelancer",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-freelancer.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-freelancer.vue",
     "chunkName": "pages/home-freelancer",
-    "_name": "_37b03185"
+    "_name": "_163d7180"
   },
   {
     "name": "home-fullscreen-slider-left-vertical-header",
     "path": "/home-fullscreen-slider-left-vertical-header",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-fullscreen-slider-left-vertical-header.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-fullscreen-slider-left-vertical-header.vue",
     "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
-    "_name": "_9bb1f04c"
+    "_name": "_d4765d56"
   },
   {
     "name": "home-indie-musician",
     "path": "/home-indie-musician",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-indie-musician.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-indie-musician.vue",
     "chunkName": "pages/home-indie-musician",
-    "_name": "_5dc1bd36"
+    "_name": "_26c5ebe0"
   },
   {
     "name": "home-landing",
     "path": "/home-landing",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-landing.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-landing.vue",
     "chunkName": "pages/home-landing",
-    "_name": "_8bb82af6"
+    "_name": "_812fb72c"
   },
   {
     "name": "home-masonry-gallery",
     "path": "/home-masonry-gallery",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-masonry-gallery.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-masonry-gallery.vue",
     "chunkName": "pages/home-masonry-gallery",
-    "_name": "_4e852cb8"
+    "_name": "_a4909cc6"
   },
   {
     "name": "home-minimal-agency",
     "path": "/home-minimal-agency",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-minimal-agency.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-minimal-agency.vue",
     "chunkName": "pages/home-minimal-agency",
-    "_name": "_3fe315b3"
+    "_name": "_d4ec3fa4"
   },
   {
     "name": "home-minimal-metro-grid",
     "path": "/home-minimal-metro-grid",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-minimal-metro-grid.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-minimal-metro-grid.vue",
     "chunkName": "pages/home-minimal-metro-grid",
-    "_name": "_1e8278b0"
+    "_name": "_28b5d8a3"
   },
   {
     "name": "home-minimal-portfolio",
     "path": "/home-minimal-portfolio",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-minimal-portfolio.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-minimal-portfolio.vue",
     "chunkName": "pages/home-minimal-portfolio",
-    "_name": "_fa58daec"
+    "_name": "_410f1ba2"
   },
   {
     "name": "home-onepage",
     "path": "/home-onepage",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-onepage.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-onepage.vue",
     "chunkName": "pages/home-onepage",
-    "_name": "_551a013a"
+    "_name": "_4a918d70"
   },
   {
     "name": "home-photo-slider-gallery",
     "path": "/home-photo-slider-gallery",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-photo-slider-gallery.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-photo-slider-gallery.vue",
     "chunkName": "pages/home-photo-slider-gallery",
-    "_name": "_0aa6fbe3"
+    "_name": "_212cbe1e"
   },
   {
     "name": "home-portfolio-slide",
     "path": "/home-portfolio-slide",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-portfolio-slide.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-portfolio-slide.vue",
     "chunkName": "pages/home-portfolio-slide",
-    "_name": "_c82c6e4c"
+    "_name": "_09c76482"
   },
   {
     "name": "home-presentation",
     "path": "/home-presentation",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-presentation.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-presentation.vue",
     "chunkName": "pages/home-presentation",
-    "_name": "_7aac191c"
+    "_name": "_2a2d7352"
   },
   {
     "name": "home-product-landing",
     "path": "/home-product-landing",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-product-landing.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-product-landing.vue",
     "chunkName": "pages/home-product-landing",
-    "_name": "_010db6b2"
+    "_name": "_5eaba98c"
   },
   {
     "name": "home-restaurant",
     "path": "/home-restaurant",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-restaurant.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-restaurant.vue",
     "chunkName": "pages/home-restaurant",
-    "_name": "_31ecae3f"
+    "_name": "_1079ee3a"
   },
   {
     "name": "home-service",
     "path": "/home-service",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-service.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-service.vue",
     "chunkName": "pages/home-service",
-    "_name": "_298ff823"
+    "_name": "_2ed43208"
   },
   {
     "name": "home-start-up",
     "path": "/home-start-up",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-start-up.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-start-up.vue",
     "chunkName": "pages/home-start-up",
-    "_name": "_b662ce30"
+    "_name": "_48119ba3"
   },
   {
     "name": "home-type-hover",
     "path": "/home-type-hover",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-type-hover.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-type-hover.vue",
     "chunkName": "pages/home-type-hover",
-    "_name": "_9e67742a"
+    "_name": "_e14cf434"
   },
   {
     "name": "home-vertical-menu",
     "path": "/home-vertical-menu",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/home-vertical-menu.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/home-vertical-menu.vue",
     "chunkName": "pages/home-vertical-menu",
-    "_name": "_075829c4"
+    "_name": "_c27eb82e"
   },
   {
     "name": "index-bu",
     "path": "/index-bu",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/index-bu.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/index-bu.vue",
     "chunkName": "pages/index-bu",
-    "_name": "_4f9ee20a"
+    "_name": "_90245322"
   },
   {
     "name": "pricing-plans",
     "path": "/pricing-plans",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/pricing-plans.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/pricing-plans.vue",
     "chunkName": "pages/pricing-plans",
-    "_name": "_fe6d7c12"
+    "_name": "_240c44b2"
   },
   {
     "name": "pricing-plans-02",
     "path": "/pricing-plans-02",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/pricing-plans-02.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/pricing-plans-02.vue",
     "chunkName": "pages/pricing-plans-02",
-    "_name": "_4c729248"
+    "_name": "_3f8d51ad"
   },
   {
     "name": "services-classic",
     "path": "/services-classic",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/services-classic.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/services-classic.vue",
     "chunkName": "pages/services-classic",
-    "_name": "_bbae7302"
+    "_name": "_d578f438"
   },
   {
     "name": "services-list",
     "path": "/services-list",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/services-list.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/services-list.vue",
     "chunkName": "pages/services-list",
-    "_name": "_1a13d801"
+    "_name": "_85524a88"
   },
   {
     "name": "services-modern",
     "path": "/services-modern",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/services-modern.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/services-modern.vue",
     "chunkName": "pages/services-modern",
-    "_name": "_d3a8b97c"
+    "_name": "_74b8e33d"
   },
   {
     "name": "team-carousel-01",
     "path": "/team-carousel-01",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/team-carousel-01.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/team-carousel-01.vue",
     "chunkName": "pages/team-carousel-01",
-    "_name": "_12cb64fa"
+    "_name": "_05e6245f"
   },
   {
     "name": "team-carousel-02",
     "path": "/team-carousel-02",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/team-carousel-02.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/team-carousel-02.vue",
     "chunkName": "pages/team-carousel-02",
-    "_name": "_12d97c7b"
+    "_name": "_05f43be0"
   },
   {
     "name": "team-grid",
     "path": "/team-grid",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/team-grid.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/team-grid.vue",
     "chunkName": "pages/team-grid",
-    "_name": "_50128cec"
+    "_name": "_798651c5"
   },
   {
     "name": "blog-blog-creative",
     "path": "/blog/blog-creative",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-creative.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-creative.vue",
     "chunkName": "pages/blog/blog-creative",
-    "_name": "_29ee9c29"
+    "_name": "_7d51d364"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-details.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-details.vue",
     "chunkName": "pages/blog/blog-details",
-    "_name": "_305dd390"
+    "_name": "_580e4373"
   },
   {
     "name": "blog-blog-details-modern-layout",
     "path": "/blog/blog-details-modern-layout",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-details-modern-layout.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-details-modern-layout.vue",
     "chunkName": "pages/blog/blog-details-modern-layout",
-    "_name": "_e5e3097a"
+    "_name": "_d46b3584"
   },
   {
     "name": "blog-blog-grid-classic",
     "path": "/blog/blog-grid-classic",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-classic.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-classic.vue",
     "chunkName": "pages/blog/blog-grid-classic",
-    "_name": "_7490c2f6"
+    "_name": "_225c7e2a"
   },
   {
     "name": "blog-blog-grid-classic-sidebar",
     "path": "/blog/blog-grid-classic-sidebar",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-classic-sidebar.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-classic-sidebar.vue",
     "chunkName": "pages/blog/blog-grid-classic-sidebar",
-    "_name": "_7c8e7094"
+    "_name": "_21ffdb39"
   },
   {
     "name": "blog-blog-grid-mesonry",
     "path": "/blog/blog-grid-mesonry",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-mesonry.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-mesonry.vue",
     "chunkName": "pages/blog/blog-grid-mesonry",
-    "_name": "_83fbd198"
+    "_name": "_1aa6f6d9"
   },
   {
     "name": "blog-blog-grid-minimal",
     "path": "/blog/blog-grid-minimal",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-minimal.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-minimal.vue",
     "chunkName": "pages/blog/blog-grid-minimal",
-    "_name": "_302a57d8"
+    "_name": "_448fb3b9"
   },
   {
     "name": "blog-blog-grid-minimal-outline",
     "path": "/blog/blog-grid-minimal-outline",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-minimal-outline.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-minimal-outline.vue",
     "chunkName": "pages/blog/blog-grid-minimal-outline",
-    "_name": "_7c07c109"
+    "_name": "_21792bae"
   },
   {
     "name": "blog-blog-grid-modern",
     "path": "/blog/blog-grid-modern",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-modern.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-modern.vue",
     "chunkName": "pages/blog/blog-grid-modern",
-    "_name": "_4cfeb27c"
+    "_name": "_57c66b92"
   },
   {
     "name": "blog-blog-grid-simple",
     "path": "/blog/blog-grid-simple",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-simple.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-simple.vue",
     "chunkName": "pages/blog/blog-grid-simple",
-    "_name": "_6f2ff78f"
+    "_name": "_1363e16c"
   },
   {
     "name": "blog-blog-grid-standard",
     "path": "/blog/blog-grid-standard",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-grid-standard.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-grid-standard.vue",
     "chunkName": "pages/blog/blog-grid-standard",
-    "_name": "_e5992c4c"
+    "_name": "_75ab0256"
   },
   {
     "name": "blog-blog-standard-list",
     "path": "/blog/blog-standard-list",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/blog-standard-list.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/blog-standard-list.vue",
     "chunkName": "pages/blog/blog-standard-list",
-    "_name": "_736d9db8"
+    "_name": "_037f73c2"
   },
   {
     "name": "element-accordion",
     "path": "/element/accordion",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/accordion.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/accordion.vue",
     "chunkName": "pages/element/accordion",
-    "_name": "_be72716e"
+    "_name": "_1103f484"
   },
   {
     "name": "element-brand-logo",
     "path": "/element/brand-logo",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/brand-logo.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/brand-logo.vue",
     "chunkName": "pages/element/brand-logo",
-    "_name": "_b07bb800"
+    "_name": "_3f2a9e25"
   },
   {
     "name": "element-call-to-action-banner",
     "path": "/element/call-to-action-banner",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/call-to-action-banner.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/call-to-action-banner.vue",
     "chunkName": "pages/element/call-to-action-banner",
-    "_name": "_94e23a3e"
+    "_name": "_9ab9e0c8"
   },
   {
     "name": "element-carousel-slider",
     "path": "/element/carousel-slider",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/carousel-slider.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/carousel-slider.vue",
     "chunkName": "pages/element/carousel-slider",
-    "_name": "_b63cfba2"
+    "_name": "_464ed1ac"
   },
   {
     "name": "element-contact-subscribe",
     "path": "/element/contact-subscribe",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/contact-subscribe.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/contact-subscribe.vue",
     "chunkName": "pages/element/contact-subscribe",
-    "_name": "_97471b44"
+    "_name": "_6a3b96ce"
   },
   {
     "name": "element-dividers",
     "path": "/element/dividers",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/dividers.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/dividers.vue",
     "chunkName": "pages/element/dividers",
-    "_name": "_63ea7189"
+    "_name": "_570530ee"
   },
   {
     "name": "element-flexible-image-slider",
     "path": "/element/flexible-image-slider",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/flexible-image-slider.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/flexible-image-slider.vue",
     "chunkName": "pages/element/flexible-image-slider",
-    "_name": "_70e18354"
+    "_name": "_76b929de"
   },
   {
     "name": "element-gradation",
     "path": "/element/gradation",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/gradation.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/gradation.vue",
     "chunkName": "pages/element/gradation",
-    "_name": "_b0506830"
+    "_name": "_1814f923"
   },
   {
     "name": "element-icon-boxes",
     "path": "/element/icon-boxes",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/icon-boxes.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/icon-boxes.vue",
     "chunkName": "pages/element/icon-boxes",
-    "_name": "_e46b7198"
+    "_name": "_2532c159"
   },
   {
     "name": "element-instagram",
     "path": "/element/instagram",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/instagram.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/instagram.vue",
     "chunkName": "pages/element/instagram",
-    "_name": "_bf0c769a"
+    "_name": "_10b6f1ee"
   },
   {
     "name": "element-lists",
     "path": "/element/lists",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/lists.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/lists.vue",
     "chunkName": "pages/element/lists",
-    "_name": "_23299396"
+    "_name": "_7326d35e"
   },
   {
     "name": "element-message-box",
     "path": "/element/message-box",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/message-box.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/message-box.vue",
     "chunkName": "pages/element/message-box",
-    "_name": "_5fd73c46"
+    "_name": "_9503f27e"
   },
   {
     "name": "element-pricing-box",
     "path": "/element/pricing-box",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/pricing-box.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/pricing-box.vue",
     "chunkName": "pages/element/pricing-box",
-    "_name": "_d1b6a5f6"
+    "_name": "_26691100"
   },
   {
     "name": "element-tab",
     "path": "/element/tab",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/tab.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/tab.vue",
     "chunkName": "pages/element/tab",
-    "_name": "_47a25454"
+    "_name": "_58394b51"
   },
   {
     "name": "element-team",
     "path": "/element/team",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/team.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/team.vue",
     "chunkName": "pages/element/team",
-    "_name": "_7ee70d6c"
+    "_name": "_f7a9715e"
   },
   {
     "name": "element-testimonial",
     "path": "/element/testimonial",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/element/testimonial.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/element/testimonial.vue",
     "chunkName": "pages/element/testimonial",
-    "_name": "_7c032640"
+    "_name": "_17a5375b"
   },
   {
     "name": "portfolio-portfolio-ajax-filter",
     "path": "/portfolio/portfolio-ajax-filter",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-ajax-filter.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-ajax-filter.vue",
     "chunkName": "pages/portfolio/portfolio-ajax-filter",
-    "_name": "_48a87b8d"
+    "_name": "_51646588"
   },
   {
     "name": "portfolio-portfolio-details",
     "path": "/portfolio/portfolio-details",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-details.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-details.vue",
     "chunkName": "pages/portfolio/portfolio-details",
-    "_name": "_101a5f8a"
+    "_name": "_c78f01f6"
   },
   {
     "name": "portfolio-portfolio-details-image-with-caption",
     "path": "/portfolio/portfolio-details-image-with-caption",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-details-image-with-caption.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-details-image-with-caption.vue",
     "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
-    "_name": "_5bce0938"
+    "_name": "_6e1b07ee"
   },
   {
     "name": "portfolio-portfolio-details-left-wide",
     "path": "/portfolio/portfolio-details-left-wide",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-details-left-wide.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-details-left-wide.vue",
     "chunkName": "pages/portfolio/portfolio-details-left-wide",
-    "_name": "_a48c5b54"
+    "_name": "_67df1411"
   },
   {
     "name": "portfolio-portfolio-details-right",
     "path": "/portfolio/portfolio-details-right",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-details-right.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-details-right.vue",
     "chunkName": "pages/portfolio/portfolio-details-right",
-    "_name": "_06879899"
+    "_name": "_601e2058"
   },
   {
     "name": "portfolio-portfolio-details-right-wide",
     "path": "/portfolio/portfolio-details-right-wide",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-details-right-wide.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-details-right-wide.vue",
     "chunkName": "pages/portfolio/portfolio-details-right-wide",
-    "_name": "_8f601492"
+    "_name": "_42d2eb5c"
   },
   {
     "name": "portfolio-portfolio-grid-boxed",
     "path": "/portfolio/portfolio-grid-boxed",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-grid-boxed.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-grid-boxed.vue",
     "chunkName": "pages/portfolio/portfolio-grid-boxed",
-    "_name": "_cb05d46a"
+    "_name": "_3fee8070"
   },
   {
     "name": "portfolio-portfolio-grid-filter",
     "path": "/portfolio/portfolio-grid-filter",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-grid-filter.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-grid-filter.vue",
     "chunkName": "pages/portfolio/portfolio-grid-filter",
-    "_name": "_4cf28ea7"
+    "_name": "_55ae78a2"
   },
   {
     "name": "portfolio-portfolio-grid-metro-01",
     "path": "/portfolio/portfolio-grid-metro-01",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-grid-metro-01.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-grid-metro-01.vue",
     "chunkName": "pages/portfolio/portfolio-grid-metro-01",
-    "_name": "_02d01224"
+    "_name": "_678d2d42"
   },
   {
     "name": "portfolio-portfolio-grid-metro-02",
     "path": "/portfolio/portfolio-grid-metro-02",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-grid-metro-02.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-grid-metro-02.vue",
     "chunkName": "pages/portfolio/portfolio-grid-metro-02",
-    "_name": "_02de29a5"
+    "_name": "_6770fe40"
   },
   {
     "name": "portfolio-portfolio-grid-wide",
     "path": "/portfolio/portfolio-grid-wide",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-grid-wide.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-grid-wide.vue",
     "chunkName": "pages/portfolio/portfolio-grid-wide",
-    "_name": "_1a528642"
+    "_name": "_1766b2fd"
   },
   {
     "name": "portfolio-portfolio-with-caption",
     "path": "/portfolio/portfolio-with-caption",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/portfolio-with-caption.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/portfolio-with-caption.vue",
     "chunkName": "pages/portfolio/portfolio-with-caption",
-    "_name": "_7251d547"
+    "_name": "_fdd9aaa8"
   },
   {
     "name": "blog-category-slug",
     "path": "/blog/category/:slug?",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/category/_slug.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/category/_slug.vue",
     "chunkName": "pages/blog/category/_slug",
-    "_name": "_4db7031a"
+    "_name": "_b94464d6"
   },
   {
     "name": "blog-tag-slug",
     "path": "/blog/tag/:slug?",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/tag/_slug.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/tag/_slug.vue",
     "chunkName": "pages/blog/tag/_slug",
-    "_name": "_0bde24f8"
+    "_name": "_81a37bae"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug?",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/blog/_slug.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/blog/_slug.vue",
     "chunkName": "pages/blog/_slug",
-    "_name": "_26408539"
+    "_name": "_92b81744"
   },
   {
     "name": "portfolio-slug",
     "path": "/portfolio/:slug?",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/portfolio/_slug.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/portfolio/_slug.vue",
     "chunkName": "pages/portfolio/_slug",
-    "_name": "_5b526957"
+    "_name": "_39dfa952"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Users/heiho/Downloads/themeforest-RkyDI5Qt-brook-creative-multipurpose-vue-nuxt-js-template/brook/pages/index.vue",
+    "component": "/Users/heiho/Development/DITA/lp/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_064bd4b4"
+    "_name": "_cd45f93e"
   }
 ]

@@ -43,13 +43,19 @@ export default {
     "~/plugins/vue-masonry-css.js",
     "~/plugins/Mixitup.client.js",
     "~/plugins/silentbox.js",
+
     { src: "~/plugins/vue-masonry", ssr: false },
   ],
 
   /*
    ** Nuxt.js modules
    */
-  modules: ["bootstrap-vue/nuxt", "@nuxtjs/style-resources"],
+  modules: ["bootstrap-vue/nuxt", "@nuxtjs/style-resources", "@nuxtjs/axios"],
+
+  axios: {
+    baseURL: process.env.API_URL,
+    credentials: true,
+  },
 
   styleResources: {
     scss: ["assets/scss/default/_variables.scss"],
