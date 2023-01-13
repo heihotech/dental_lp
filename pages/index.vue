@@ -19,12 +19,23 @@ export default {
       selectedSchedule: null,
       isModalReservationActive: false,
       isBusy: true,
+      reservation: {
+        doctorId: null,
+        patientId: null,
+        scheduleId: null,
+        arrivalPlan: null,
+        arrival: null,
+        patientComplaint: null,
+        fullName: null,
+        phoneNumber: null,
+      },
     };
   },
   methods: {
     switchSchedule() {
       this.schedules = [];
       if (this.date !== null) {
+        this.reservation.arrivalPlan = this.date;
         this.doctors.map((el) => {
           if (el.id === this.selectedDoctor) {
             el.schedules.map((s) => {
@@ -35,6 +46,22 @@ export default {
           }
         });
       }
+    },
+    async submit() {
+      this.isBusy = true;
+      let url = "/api/book-orders";
+
+      try {
+        const resp = await this.$axios.post(url, this.reservation);
+        if (resp.data) {
+          console.log(resp.data.data);
+          this.isModalReservationActive = false;
+        }
+      } catch (error) {
+        console.log(error);
+      }
+      // console.log(this.doctors);
+      this.isBusy = false;
     },
   },
   async fetch() {
@@ -66,12 +93,22 @@ export default {
     selectedDoctor: {
       handler: function () {
         this.switchSchedule();
+        if (this.selectedDoctor !== null) {
+          this.reservation.doctorId = parseInt(this.selectedDoctor);
+        }
+      },
+    },
+    selectedSchedule: {
+      handler: function () {
+        if (this.selectedSchedule !== null) {
+          this.reservation.scheduleId = parseInt(this.selectedSchedule);
+        }
       },
     },
   },
   head() {
     return {
-      title: "Home Corona",
+      title: "Hanum Dental Care Majenang",
     };
   },
 };
@@ -83,13 +120,21 @@ export default {
 
     <!-- The modal -->
     <b-modal v-model="isModalReservationActive" hide-header>
-      <b-form>
+      <b-form @submit.prevent="submit" id="reservation-form">
         <!-- <b-form @submit="onSubmit" @reset="onReset" v-if="show"> -->
         <b-form-group label="Nama Pasien" label-for="fullName">
-          <b-form-input type="text" required></b-form-input>
+          <b-form-input
+            v-model="reservation.fullName"
+            type="text"
+            required
+          ></b-form-input>
         </b-form-group>
         <b-form-group label="Nomor Telepon Pasien" label-for="phone">
-          <b-form-input type="text" required></b-form-input>
+          <b-form-input
+            v-model="reservation.phoneNumber"
+            type="text"
+            required
+          ></b-form-input>
         </b-form-group>
         <b-form-group label="Dokter" label-for="doctor">
           <select v-model="selectedDoctor" class="form-control" required>
@@ -123,7 +168,7 @@ export default {
         <b-form-group label="Keluhan" label-for="complaint">
           <b-form-textarea
             id="complaint"
-            v-model="complaint"
+            v-model="reservation.patientComplaint"
             placeholder="Ceritakan keluhan anda..."
             rows="3"
             max-rows="6"
@@ -137,6 +182,8 @@ export default {
           >Batal</b-button
         >
         <b-button
+          type="submit"
+          form="reservation-form"
           class="brook-btn bk-btn-theme btn-rounded corona-btn space-between"
           >RESERVASI</b-button
         >
