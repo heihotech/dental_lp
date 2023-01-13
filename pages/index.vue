@@ -418,6 +418,22 @@ export default {
               </div>
             </div>
             <!-- Single symptom End -->
+
+            <!-- Single symptom Start -->
+            <div class="single-symptom mb--80 mb_md--30 mb_sm--30">
+              <div class="symptom-thumb">
+                <img src="/img/hanumdentalcare/3.png" alt="image" />
+              </div>
+              <div class="symptom-content">
+                <h3>Perawatan Saluran Akar</h3>
+                <p>
+                  Perawatan Saluran Akar Gigi (PSA) adalah prosedur perawatan
+                  gigi yang dilakukan saat infeksi penyebab pembusukan sudah
+                  terlanjur membunuh saraf gigi.
+                </p>
+              </div>
+            </div>
+            <!-- Single symptom End -->
           </div>
           <div
             class="col-xl-6 col-lg-4 d-xl-block d-lg-block d-none wow move-up animate"
@@ -464,6 +480,29 @@ export default {
                   Pemasangan gigi goyang ( Pengencangan ), kawat gigi untuk post
                   KLL
                 </p>
+              </div>
+            </div>
+            <!-- Single symptom End -->
+
+            <!-- Single symptom Start -->
+            <div class="single-symptom mb--80 mb_md--30 mb_sm--30">
+              <div class="symptom-thumb">
+                <img src="/img/hanumdentalcare/7.png" alt="image" />
+              </div>
+              <div class="symptom-content">
+                <h3>Gigi Palsu</h3>
+                <p>Gigi Palsu Permanen dan Gigi Palsu Lepasan.</p>
+              </div>
+            </div>
+            <!-- Single symptom End -->
+            <!-- Single symptom Start -->
+            <div class="single-symptom mb--80 mb_md--30 mb_sm--30">
+              <div class="symptom-thumb">
+                <img src="/img/hanumdentalcare/1.png" alt="image" />
+              </div>
+              <div class="symptom-content">
+                <h3>Bleaching / Pemutihan Gigi</h3>
+                <p>Bleaching / Pemutihan Gigi.</p>
               </div>
             </div>
             <!-- Single symptom End -->
